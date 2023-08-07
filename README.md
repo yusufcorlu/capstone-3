@@ -2,7 +2,7 @@
 
 Angela Yu's The Complete 2023 Web Development Bootcamp [Capstone-3 Project]
 
-<h1> Tech Stack Used </h1>
+# Tech Stack Used
 <ul>
 <li>JavaScript</li>
 <li>EJS</li>
